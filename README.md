@@ -57,7 +57,7 @@ A fully functional AI-powered chatbot built with HTML, CSS, JavaScript and OpenR
 - LinkedIn: [linkedin.com/in/asna-haris-684058319](https://www.linkedin.com/in/asna-haris-684058319/)
 
 ---
-## Project Link 
+## 🔗 Project Link 
 Github: 
 
 ## 📄 License
