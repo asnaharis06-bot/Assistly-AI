@@ -53,10 +53,12 @@ A fully functional AI-powered chatbot built with HTML, CSS, JavaScript and OpenR
 
 **Asna Haris** — CodeAlpha Cloud Computing Intern
 
-- GitHub: [github.com/asna](https://github.com)
+- GitHub: https://github.com/asnaharis06-bot
 - LinkedIn: [linkedin.com/in/asna-haris-684058319](https://www.linkedin.com/in/asna-haris-684058319/)
 
 ---
+## Project Link 
+Github: 
 
 ## 📄 License
 
