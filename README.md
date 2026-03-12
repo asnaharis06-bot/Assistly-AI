@@ -58,7 +58,7 @@ A fully functional AI-powered chatbot built with HTML, CSS, JavaScript and OpenR
 
 ---
 ## 🔗 Project Link 
-Github: 
+Github: https://github.com/asnaharis06-bot/Assistly-AI
 
 ## 📄 License
 
